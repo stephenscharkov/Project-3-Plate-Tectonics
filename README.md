@@ -2,9 +2,9 @@
 
 # Infomation location:
 
-  Code URL:
+  Code URL:https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Project%203.ipynb
   
-  README URL: 
+  README URL: https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/README.md
   
 # Problem Statement:
 
