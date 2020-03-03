@@ -31,9 +31,24 @@
 
 Map the earthquakes in April 2015(include this map inyour report). Where are those earthquakes mostly located? What event can you link these earthquakes to? 
 
-  As seen in Figure 1.a most of the earthquakes that occure are at the plate boundaries, this is due to interations between the different plates casuing storied energy to be realced in the form of vibration. The Juan de Fuca Plate is unique in that it has all types of tectonic boundaries (Convection, Divergent, and Transform). For the Juan de Fuca Plate the range of maginutids seen is from 2.5 to 6.8 with the average maginutid being 3.1650072744907956.
+  As seen in Figure 1.a most of the earthquakes that occure are at the plate boundaries, this is due to interations between the different plates casuing storied energy to be realced in the form of vibration. The Juan de Fuca Plate is unique in that it has all types of tectonic boundaries (Convection, Divergent, and Transform). For the Juan de Fuca Plate the range of maginutids seen is from 2.5 to 6.8 with the average maginutid being 3.1650072744907956. 
+  In Figure 1.b the Month of April is shown in 2015. The most densely pack loaction of earthquakes is located in the middle of the west side of the Juan de Fuca Plate. This location on the plate boundary is called the Axial Seamount which is a volcano that irrupted in this month and was felt around the world. This can be seen in the riples in the southern part of Juan de Fuca Plate. The largest value from this month howevere is in the top of the plate. 
 
+ ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20of%20Juan%20de%20Fuca%20Plate%20Divergence.PNG)
  
+  Figure 1.c: Earthquakes magnitudes of the Juan de Fuca Plate on the Divergence
+  
+    ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20of%20Juan%20de%20Fuca%20Plate%20Transform.PNG)
+
+  Figure 1.d: Earthquakes magnitudes of the Juan de Fuca Plate on the Transform
+  
+  
+|  | __Average__ | __Minimum__ | __Maximum__ | __# of Earthquakes__ |
+|-------------|------------|------------|
+| __All Data__   |   3.1650072744907956   | 2.5      |6.8|4124|
+| __Divergence__ | 3.0254679223072443 | 2.5     |6.8| 1699|
+| __Transform__ | 3.642851782363975 | 2.5     |6.3|533|
+| __April 2015__ | 3.2454761904761917 | 2.5     |6.2|42|
   
   # Conclusion:
   
