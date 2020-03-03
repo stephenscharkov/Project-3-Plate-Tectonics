@@ -42,17 +42,43 @@ Map the earthquakes in April 2015(include this map inyour report). Where are tho
 
   Figure 1.d: Earthquakes magnitudes of the Juan de Fuca Plate on the Transform
   
+  Figures 1.c and 1.d are both on the Juan de Fuca Plate but are targeted regions on the plate. Figure 1.c is a Divergence boundary on the plate and Figure 1.d is a Transform. The patterns that can be made from this infroation is that more earthquakes occur at the Divergence boundary but more intence earthquakes will happen at the transform boundary. This information is matchs information I found on the cliffsnotes website.
   
-|  | __Average__ | __Minimum__ | __Maximum__ | __# of Earthquakes__ |
-|-------------|------------|------------|
-| __All Data__   |   3.1650072744907956   | 2.5      |6.8|4124|
-| __Divergence__ | 3.0254679223072443 | 2.5     |6.8| 1699|
-| __Transform__ | 3.642851782363975 | 2.5     |6.3|533|
-| __April 2015__ | 3.2454761904761917 | 2.5     |6.2|42|
+  
+|                | __Average__         | __Minimum__ | __Maximum__ | __# of Earthquakes__ |
+|-------------   |  ------------       |------------ |------------|------------|
+| __All Data__   |   3.1650072744907956| 2.5         |6.8|4124|
+| __Divergence__ | 3.0254679223072443  | 2.5         |6.8| 1699|
+| __Transform__  | 3.642851782363975   | 2.5         |6.3|533|
+| __April 2015__ | 3.2454761904761917  | 2.5         |6.2|42|
+
+  Table 1: Average, Minimum, Maximum values for Earthquakes on the Juan de Fuca Plate
+  
+  As seen in Table 1 we can see general trend from the Juan de Fuca Plate earthquakes. The most prevelent of trends being found in the average size of the earthquakes. Haveing the All data being the base line for infation we can see that both the Transform and April 2015 data are above average with the divergence data being below average.
+  
+  
+  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20vs%20Time%20All%20Data.png)
+  
+   Figure 2.a: Magnitude vs time for all of the data 
+   
+  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20vs%20Time%20April%202015%20Data.png)
+  
+   Figure 2.b:Magnitude vs time for data found in April 2015
+  
+  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20vs%20Time%20Divergence%20Data.png)
+  
+   Figure 2.c: Magnitude vs time for data in the Divergence 
+  
+  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20vs%20Time%20Transform%20Data.png)
+  
+   Figure 2.d:Magnitude vs time for data in the Transform
+   
+   Figures 2.a to 2.d show scatter plots of the amplitudes of the earthquakes over time.
+  
   
   # Conclusion:
   
-  Accurate measurements of large scale weather systems can be made by widely space data collection devices due to the low lag rates and the strong correlation of data seen above. 
+  Accurate measurements of earthquakes can be made using infroation collected from Ocean Bottom Seismometer due to the mathcing data found about the Axial Seamount, Divergent and Transform Boundaries on the Juan de Fuca Plate. 
   
   # References:
   
@@ -61,4 +87,7 @@ Map the earthquakes in April 2015(include this map inyour report). Where are tho
     https://earthquake.usgs.gov/earthquakes/map/
     https://datalab.marine.rutgers.edu/explorations/geology/activity1.php
     http://geoviews.org/
+    https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR2peQzYorW7RngYXSsgJoxPQHl9Nx0T1_56l3yjti3C5Dcr-uU1wVt9iyY
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734?fbclid=IwAR3VXKkXWMWhWc9156cWTwYxAPGx59EovYASzUTMYYPxh6yQii3XLGALqsM
+    https://www.cliffsnotes.com/study-guides/geology/earthquakes/earthquakes-and-plate-tectonics
   
