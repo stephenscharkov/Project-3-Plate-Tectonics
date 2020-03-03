@@ -28,9 +28,6 @@
   
   Figure 1.b: Earthquakes magnitudes of the Juan de Fuca Plate in 2015
   
-
-Map the earthquakes in April 2015(include this map inyour report). Where are those earthquakes mostly located? What event can you link these earthquakes to? 
-
   As seen in Figure 1.a most of the earthquakes that occure are at the plate boundaries, this is due to interations between the different plates casuing storied energy to be realced in the form of vibration. The Juan de Fuca Plate is unique in that it has all types of tectonic boundaries (Convection, Divergent, and Transform). For the Juan de Fuca Plate the range of maginutids seen is from 2.5 to 6.8 with the average maginutid being 3.1650072744907956. 
   In Figure 1.b the Month of April is shown in 2015. The most densely pack loaction of earthquakes is located in the middle of the west side of the Juan de Fuca Plate. This location on the plate boundary is called the Axial Seamount which is a volcano that irrupted in this month and was felt around the world. This can be seen in the riples in the southern part of Juan de Fuca Plate. The largest value from this month howevere is in the top of the plate. 
 
@@ -88,6 +85,6 @@ Map the earthquakes in April 2015(include this map inyour report). Where are tho
     https://datalab.marine.rutgers.edu/explorations/geology/activity1.php
     http://geoviews.org/
     https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR2peQzYorW7RngYXSsgJoxPQHl9Nx0T1_56l3yjti3C5Dcr-uU1wVt9iyY
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734?fbclid=IwAR3VXKkXWMWhWc9156cWTwYxAPGx59EovYASzUTMYYPxh6yQii3XLGALqsM
+    https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734fbclid=IwAR3VXKkXWMWhWc9156cWTwYxAPGx59EovYASzUTMYYPxh6yQii3XLGALqsM
     https://www.cliffsnotes.com/study-guides/geology/earthquakes/earthquakes-and-plate-tectonics
   
