@@ -9,7 +9,7 @@
 # Problem Statement:
 
   This project was given to better undersand tectonic plate motion and the effects this motion has on earthquakes. For this project 
-  we will use the Juan de Fuca plate, which is off the west coast of the United states and Canada, and the differnet boundary conditions this
+  we will use the Juan de Fuca plate, which is off the west coast of the United states and Canada, and the different boundary conditions this
   plate comes with. Using data from a Ocean Bottom Seismometer we are able to analyze the Juan de Fuca plate movement over the past 10 years.
   The code is writen in python and will inform the user of seismic activity in this plate. 
 
