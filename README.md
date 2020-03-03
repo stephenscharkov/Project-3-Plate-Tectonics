@@ -15,8 +15,8 @@
 
 # Results:
   
-  In Figures 1.a to 1.d the maginutids are shown on a map with there raidas incease with larger earthquakes. Their colors also change with the severity of the earthquakes. The color bar on the side of the graph gives the scale of the severity. 
-  In the following garphs the following assumptions were made: 
+  In Figures 1.a to 1.d the magnitudes are shown on a map with their radii increasing with larger earthquakes. Their colors also change with the severity of the earthquakes. The color bar on the side of the graph gives the scale of the severity. 
+  In the following graphs the following assumptions were made: 
   
     1. Data collected from the Ocean Bottom Seismometer is accurate
   
